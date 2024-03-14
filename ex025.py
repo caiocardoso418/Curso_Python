@@ -1,0 +1,5 @@
+print('INICIO DO PROGRAMA!')
+nome = str(input('digite seu nome:')).strip()
+vertificando = 'Silva' in nome.lower()
+print('verificcando...')
+print(vertificando)
